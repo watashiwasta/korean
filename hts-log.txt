@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Nov 2024 00:54:40 at https://www.koreatimes.co.kr/www/nation/2024/11/113_385897.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.koreatimes.co.kr/www/nation/2024/11/113_385897.html -O1 "C:\Users\User\Desktop\Website\a" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:54:46	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): koreatimescokr.api.useinsider.com/ins.js?id=10005899
+00:55:19	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=fem1q1Y1Mn20Io (from https://www.koreatimes.co.kr/www/nation/2024/11/113_385897.html)
+00:55:41	Warning: 	Redirect for https://www.koreatimes.co.kr/www/nation/2024/11/schema.org/
+00:55:41	Warning: 	File has moved from https://www.koreatimes.co.kr/www/nation/2024/11/schema.org/ to https://www.koreatimes.co.kr/www2/common/404.html
+00:55:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=fem1q1Y1Mn20Io (from https://www.koreatimes.co.kr/www/nation/2024/11/113_385897.html)
+00:55:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=fem1q1Y1Mn20Io (from https://www.koreatimes.co.kr/www/nation/2024/11/113_385897.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 5 seconds : 120 links scanned, 115 files written (10659866 bytes overall) [7721087 bytes received at 118785 bytes/sec], 4138884 bytes transferred using HTTP compression in 28 files, ratio 27%, 5.9 requests per connection
+(1 errors, 5 warnings, 0 messages)

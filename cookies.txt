@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.koreatimes.co.kr	TRUE	/	FALSE	1999999999	ASPSESSIONIDCCRACSCT	IILHCJCABNHCCCPILLGMEEOM
+www.koreatimes.co.kr	TRUE	/	FALSE	1999999999	AWSALB	oUh2oCDWN/B0EW//xE3XQY/mEs/2A2MGo9BmDS3vJ4yVLv7UDayBjgCbA55HXICIF6OnKIoHi69U8+naTjZ/mqCOJOpzOaNIwbMAVDOMt/9x+3R3ugvbUox+Qvz5
+www.koreatimes.co.kr	TRUE	/	FALSE	1999999999	AWSALBCORS	oUh2oCDWN/B0EW//xE3XQY/mEs/2A2MGo9BmDS3vJ4yVLv7UDayBjgCbA55HXICIF6OnKIoHi69U8+naTjZ/mqCOJOpzOaNIwbMAVDOMt/9x+3R3ugvbUox+Qvz5
+www.koreatimes.co.kr	TRUE	/	FALSE	1999999999	SameSite	None
+
